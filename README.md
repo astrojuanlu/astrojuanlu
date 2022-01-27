@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Juan Luis and I work at Read the Docs ✨
+Hello, I'm Juan Luis ✨
 
 <!--
 **astrojuanlu/astrojuanlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
